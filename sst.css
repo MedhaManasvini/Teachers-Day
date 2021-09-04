@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: lightcoral;
+    border: inset;
+    border-color: yellow;
+    color: purple;
+    
+}
+img{
+    width: 50%;
+    height: 50%;
+}
