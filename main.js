@@ -14,10 +14,10 @@ function openSSt(){
     window.location= "sst.html"
 }
 function openHindi(){
-    window.location= "computer.html"
+    window.location= "hindi.html"
 }
 function openSanskrit(){
-    window.location= "computer.html"
+    window.location= "sanskrit.html"
 }
 function openCoding(){
     window.location= "coding.html"
