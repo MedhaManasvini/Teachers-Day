@@ -1,6 +1,3 @@
-function openComputer(){
-    window.location= "computer.html"
-}
 function openMathematics(){
     window.location= "maths.html"
 }
@@ -30,4 +27,7 @@ function openDance1(){
 }
 function openDance2(){
     window.location= "dance2.html"
+}
+function openComputer(){
+    window.location= "computer.html"
 }
